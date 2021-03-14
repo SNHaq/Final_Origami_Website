@@ -1,0 +1,13 @@
+body{
+    background-color:aqua;
+    font-family: cursive;
+    border:solid; 
+}
+
+.grid{
+    margin-left: 65px;
+}
+
+p{
+    margin-left: 250px;
+}
